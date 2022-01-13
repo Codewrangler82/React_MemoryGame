@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://codewrangler82.github.io/React_MemoryGame/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
